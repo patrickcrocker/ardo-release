@@ -1,0 +1,9 @@
+---
+name: ardo_app
+
+dependencies:
+- ruby_1.9.3
+
+files:
+- ardo_app/**/*
+
